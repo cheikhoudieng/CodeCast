@@ -1,0 +1,5 @@
+{
+  "name": "CodeCast Tutor",
+  "description": "An interactive code learning application that generates code examples with synchronized, AI-narrated step-by-step explanations.",
+  "requestFramePermissions": []
+}
